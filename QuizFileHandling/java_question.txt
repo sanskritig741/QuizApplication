@@ -1,0 +1,22 @@
+What is Java?,A programming language,A coffee type,A database,A programming language
+Which keyword is used to define a class in Java?,class,def,struct,class
+What does JVM stand for?,Java Virtual Machine,Java Visual Machine,Java Verified Machine,Java Virtual Machine
+Which of these is not a primitive data type in Java?,String,int,float,String
+How do you start a single-line comment in Java?,//,#,<!--,// 
+Which method is used to print to the console in Java?,System.out.println(),printf(),print(),System.out.println()
+What is the size of an `int` in Java?,4 bytes,8 bytes,2 bytes,4 bytes
+Which keyword is used to inherit a class in Java?,extends,implements,inherit,extends
+Which access modifier allows access only within the same package?,default,private,protected,default
+What does `==` compare in Java?,Values,Memory addresses,Both,Values
+Which package is imported by default in every Java program?,java.lang,java.util,java.io,java.lang
+What is the extension of a Java bytecode file?,.class,.java,.exe,.class
+Which loop is best when the number of iterations is fixed?,for,while,do-while,for
+What does the `new` keyword do in Java?,Creates an object,Defines a class,Starts a method,Creates an object
+What is the starting index of an array in Java?,0,1,-1,0
+Which method is called when an object is created?,Constructor,Main method,Initializer,Constructor
+What is the return type of the `main` method in Java?,void,int,String,void
+What is the default value of a `boolean` variable in Java?,false,true,null,false
+Which operator is used to concatenate strings in Java?,+,&,*,+
+What is the result of `10 / 3` in Java?,3,3.333,Error,3
+
+

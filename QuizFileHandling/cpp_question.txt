@@ -1,0 +1,20 @@
+What is C++?,A programming language,A database,A text editor,A programming language
+Which operator is used to access members of a class in C++?,.,->,::,.
+What does OOP stand for?,Object-Oriented Programming,Object Order Processing,Object-Oriented Paradigm,Object-Oriented Programming
+Which keyword is used to define a class in C++?,class,struct,def,class
+What is the default access modifier for class members in C++?,private,public,protected,private
+What is the size of a `double` in C++?,8 bytes,4 bytes,16 bytes,8 bytes
+Which keyword is used to create an object in C++?,new,malloc,create,new
+What does `#include` do in C++?,Includes a file,Defines a macro,Starts a loop,Includes a file
+Which operator is used for dereferencing a pointer?,*,&,->,*
+What is the output of `10 % 4`?,2,1,0,2
+How do you declare a constant variable in C++?,const,let,final,const
+What is the extension of a C++ source file?,.cpp,.c,.cc,.cpp
+What is the result of `5 == 5 || 5 > 10` in C++?,true,false,null,true
+Which of these is not a valid loop in C++?,foreach,for,while,foreach
+What does `delete` do in C++?,Deallocates memory,Removes a file,Deletes a variable,Deallocates memory
+What is the correct way to declare a pointer?,int *ptr,int ptr,int &ptr,int *ptr
+What is the return type of the `main` function in C++?,int,void,String,int
+What is the starting index of an array in C++?,0,1,-1,0
+Which keyword is used to inherit a class in C++?,public,private,extend,public
+Which header file is required for input/output operations?,iostream,stdlib,string,iostream
